@@ -2,3 +2,4 @@ second file
 third line
 undo from repo
 A
+B
